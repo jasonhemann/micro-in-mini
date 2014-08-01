@@ -3,6 +3,7 @@
 (require C311/mk)
 (require C311/numbers)
 
+;; Jason Hemann and Dan Friedman
 ;; An implementation of a microKanren-like language in miniKanren.
 
 ;; Right now, this requires the C311 implementation of mK + relational
